@@ -483,10 +483,12 @@ PlatyPus().eggs <- Success!!!
 
 # Thank you
 
-@raulraja
-@javielinux
 @47deg
-raul at 47deg.com
+
+@javielinux
+
+@raulraja
+
 http://47deg.com/blog
 
 ## https://speakerdeck.com/raulraja/painless-android-development-with-scala-deck
