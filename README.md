@@ -1,7 +1,7 @@
 footer: (Scala on Android) ⇒ Painless Android Development with Scala 
 slidenumbers: true
 
-![Scala on Android, The current state of affairs](https://raw.githubusercontent.com/47deg/scala-on-android-deck/master/assets/01@2x.png)
+![Scala on Android, The current state of affairs](https://raw.githubusercontent.com/47deg/painless-android-development-with-scala-deck/master/assets/01@2x.png)
 
 ---
 ⇒ 47 Degrees, a global consulting agency & Typesafe Consulting Partner.
