@@ -103,39 +103,6 @@ if (name != null) {
 ```scala
 val jobName : Option[String] = person.job map (_.name)
 ```
-OR
-
-```scala
-val jobName : Option[String] = for {
-   job <- person.job
-} yield job.name
-```
----
-
-# Java Vs Scala ⇒ _**`NullPointerExceptions`**_
-
-```java
-Person person = getPerson();
-
-String name = null;
-
-if (person != null && person.getJob() != null) {
-  name = person.getJob().getName();
-}
-
-if (name != null) {
-  return name;
-} else {
-  return DEFAULT_NAME;
-}
-```
----
-
-# Java Vs Scala ⇒ _**`NullPointerExceptions`**_
-
-```scala
-val jobName : Option[String] = person.job map (_.name)
-```
 
 *OR*
 
